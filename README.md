@@ -1,3 +1,6 @@
+[Bottlerocket от Amazon] платформа оркестровки контейнеров Kubernetes
+https://docs.google.com/document/d/1weho9eyQT58ykXE0GftPIbdPhbfiO_uoP4PgUyunoPo/edit
+
 # Bottlerocket OS
 
 Welcome to Bottlerocket!
